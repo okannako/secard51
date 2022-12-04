@@ -1,4 +1,4 @@
-<img src="(https://github.com/secard51/secard51/blob/main/welcome.png)" width="auto">
+<img src="https://github.com/secard51/secard51/blob/main/welcome.png" width="auto">
 
 
 
