@@ -1,5 +1,5 @@
 <img src="https://github.com/secard51/secard51/blob/main/welcome.png" width="auto">
-[Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link(link) 
 
 
 
