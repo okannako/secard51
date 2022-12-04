@@ -1,3 +1,10 @@
+<img src="(https://github.com/secard51/secard51/blob/main/welcome.png)" width="auto">
+
+
+
+
+
+
 - 👋 Hi, I’m @secard51
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
